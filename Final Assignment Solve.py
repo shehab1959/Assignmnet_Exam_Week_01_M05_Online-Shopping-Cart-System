@@ -1,4 +1,6 @@
-#Final Assignment Solve.py
+#Final Assignment Solve
+
+
 print("---Start Here--\n")
 print("Online Shopping Cart System:\n")
 
@@ -128,3 +130,60 @@ combined_cart.display_cart()
 
 
 print("\n---End Here--")
+
+
+
+
+
+
+
+"""
+##Output##
+---Start Here--
+
+Online Shopping Cart System:
+
+Alice's Cart Operations:
+1500 added to the cart.
+2100 added to the cart.
+700 added to the cart.
+700 removed from the cart.
+
+Bob's Cart Operations:
+1200 added to the cart.
+1800 added to the cart.
+900 added to the cart.
+900 removed from the cart.
+
+Alice's Shopping Cart:
+
+=====Shopping Cart =======
+Customer Name: Alice
+Items: [1500, 2100]
+Total Amount: 3600
+Final Amount: 3240.0
+Number of Items: 2
+---------------------------
+
+Bob's Shopping Cart:
+
+=====Shopping Cart =======
+Customer Name: Bob
+Items: [1200, 1800]
+Total Amount: 3000
+Final Amount: 2700.0
+Number of Items: 2
+---------------------------
+
+Combined Shopping Cart:
+
+=====Shopping Cart =======
+Customer Name: Alice & Bob
+Items: [1500, 2100, 1200, 1800]
+Total Amount: 6600
+Final Amount: 5940.0
+Number of Items: 4
+---------------------------
+
+---End Here--
+"""
